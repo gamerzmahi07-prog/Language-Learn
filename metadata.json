@@ -1,0 +1,8 @@
+{
+  "name": "LingoSocial - Premium Language Learning",
+  "description": "A social-first language learning platform featuring AI-curated lessons, TikTok-style cultural reels, and gated peer-to-peer matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
